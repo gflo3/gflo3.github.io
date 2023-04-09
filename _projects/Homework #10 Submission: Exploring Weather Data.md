@@ -32,7 +32,7 @@ Below is where we can put some links to both the data and the analysis code as b
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
+{% include elements/button.html link="https://gflo3.github.io/assets/json/myWeatherPlot.json" text="The Data" %}
 </div>
 
 <div class="right">
