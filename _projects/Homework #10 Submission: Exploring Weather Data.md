@@ -46,5 +46,5 @@ Below is where we can put some links to both the data and the analysis code as b
 </div>
 
 <div class="right">
-{% include elements/button.html link="[https://github.com/gflo3.io/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb](https://github.com/gflo3/gflo3.github.io/blob/main/python_notebooks/florence-grant-assignment10.ipynb)" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/gflo3/gflo3.github.io/blob/main/python_notebooks/florence-grant-assignment10.ipynb" text="The Analysis" %}
 </div>
