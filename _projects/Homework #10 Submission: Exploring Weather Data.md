@@ -1,4 +1,14 @@
-
+---
+name: Vega-lite Plots with Python Analysis
+tools: [Python, HTML, vega-lite]
+image: assets/pngs/pythonanalysisvegaplot.png
+description: Examples using Python for analysis, and vega-lite for interactive, online plotting.
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
+---
 
 # Homework 10 Submission: Exploring Weather Data
 
