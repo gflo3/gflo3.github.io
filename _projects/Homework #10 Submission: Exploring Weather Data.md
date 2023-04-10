@@ -17,6 +17,8 @@ Source: www.noaa.gov
 
 ## First Visualization 
 
+<vegachart schema-url="{{ gflo3.github.io }}/assets/json/myWeatherPlot.json" style="width: 100%"></vegachart>
+
 For my first graph, I used my homework #9 assignment as a starting point, I copied my code from Starboard and asked ChatGPT (https://chat.openai.com/chat) how I would be able to accomplish the same datavisualization goal with Python instead of Javascript.
 This got me some functioning code, but I then modififed it to better address the objectives of this assignment. This visulization is showing UV index (X axis) and humidity (Y axis). The encoding type here for both axes is quantitative. When the user clicks and drags, the bars turn blue. I made the graph size 700 by 700.
 For reference, my initial code for assignment #9 (first graph):
@@ -38,6 +40,7 @@ tooltip=[ alt.Tooltip('temperature_high:Q', title='Temperature High'), alt.Toolt
 This works well in giving a bit more information to the data storytelling of the chart.
 
 ## Second Visualization 
+<vegachart schema-url="{{ gflo3.github.io }}/assets/json/myWeatherPlot2.json" style="width: 100%"></vegachart>
 
 For this section, I simply added the code from my first visualization and then modified what data I wanted to show on the X and Y axes. Here, I am showing the humidity and wind speed data from the spreadsheet. I thought this was interesting as sometimes there is more humidity when we have experienced a high wind event in Illinois. However, the data is someone mixed and doesn't definitively show that all high wind speeds are correlated to high humidity. I would be interested in further exploration with another dataset that would show events categorized by type of weather event (i.e. blizzard, tornado, etc).
 
