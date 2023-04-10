@@ -1,7 +1,7 @@
 ---
 name: Homework #10 Submission: Exploring Weather Data
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/weather.png
+image: /assets/pngs/weather.png
 description: Grant's submission for Homework #10
 custom_js:
   - vega.min
