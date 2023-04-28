@@ -16,9 +16,6 @@ custom_js:
 
 <vegachart schema-url="{{ gflo3.github.io }}/assets/json/central_charts.json" style="width: 100%"></vegachart>
 
-![]({{site.baseurl}}/assets/pngs/vegaeditorexample.png)
-
-
 # 2. Part 2
 
 
