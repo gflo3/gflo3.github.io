@@ -1,6 +1,6 @@
 ---
-name: Final Project
-tools: [Python, HTML, vega-lite]
+name: Final Project: Exploring Illinois State Employee Pay
+tools: [Python, HTML, Altair]
 image: assets/pngs/fromvegaeditor.png
 description: Exploring how the State of Illinois pays state employees across various agencies
 custom_js:
@@ -11,7 +11,8 @@ custom_js:
 ---
 
 
-# 1. Part 1
+
+# 1. Central 
 
 If we start from [this simple vega-example](https://vega.github.io/vega-lite/examples/stacked_bar_h.html) and [open it in the vega-editor](https://vega.github.io/editor/#/examples/vega-lite/stacked_bar_h) we can export from the vega-lite editor.
 
