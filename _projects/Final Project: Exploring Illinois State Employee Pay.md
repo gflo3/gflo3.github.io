@@ -30,9 +30,9 @@ custom_js:
 
 
 <div class="left">
-{% include elements/button.html link="[https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/data/mobility.csv](https://github.com/gflo3/gflo3.github.io/blob/main/_data/Illinois-Data.csv)" text="The Data" %}
+{% include elements/button.html link="(https://github.com/gflo3/gflo3.github.io/blob/main/_data/Illinois-Data.csv)" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="[https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week11/prep_notebook_week11.ipynb](https://github.com/gflo3/gflo3.github.io/blob/main/python_notebooks/florence-grant-final-part1.ipynb)" text="The Analysis" %}
+{% include elements/button.html link="(https://github.com/gflo3/gflo3.github.io/blob/main/python_notebooks/florence-grant-final-part1.ipynb)" text="The Analysis" %}
 </div>
