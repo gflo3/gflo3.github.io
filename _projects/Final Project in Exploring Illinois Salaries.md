@@ -1,5 +1,5 @@
 ---
-name: Final Project: Exploring Illinois State Employee Pay
+name: Final Project in Exploring Illinois Salaries
 tools: [Python, HTML, Altair]
 image: assets/pngs/fromvegaeditor.png
 description: Exploring how the State of Illinois pays state employees across various agencies
