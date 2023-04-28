@@ -11,6 +11,8 @@ custom_js:
 ---
 # Final Project in Exploring Illinois Salaries
 
+![Main-Visualization](/assets/pngs/Main-Visualization.png) 
+
 As Illinois ranked ninth among the states highest state tax burdens (combining property, sales, and income tax), according to NPR, I thought it would be a worthwhile project to explore the State of Illinois’ dataset listing state employee pay. I think it widely accepted that state governments help provide necessary services to citizens of the state. However, I think it’s valuable to examine what trends emerge in the data, that can lead to valuable conversations around what areas of our government are not receiving enough funding, and where are areas that perhaps could be cut back.
 
 # Central Interactive Visualization
