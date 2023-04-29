@@ -17,7 +17,7 @@ As Illinois ranked ninth among the states highest state tax burdens (combining p
 
 # Central Interactive Visualization
 
-<vegachart schema-url="{{ gflo3.github.io }}/assets/json/charts.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ gflo3.github.io }}/central_charts.json" style="width: 100%"></vegachart>
 
 <div class="left">
 {% include elements/button.html link="https://data.illinois.gov/dataset/724state_employee_pay/resource/f823a40d-77f9-4b12-9d1c-5cd0c31905e9" text="The Data" %}
@@ -38,9 +38,13 @@ If I had more time to update the entire dashboard, I think I would rework it wit
 
 ![50cents](/assets/pngs/50cents.png) 
 
+This visualization gives some insight into the state's spending from property taxes. The key takeaway as noted is that less than half of property tax icnome for the state was going to services. This means most was going to pensions, bonds, and interest, among other categories.
+
 # Contextual Visualization #2
 
 ![revenue-illinois](/assets/pngs/revenue-illinois.png) 
+
+This visualization shows key sources of state revenue for Illinois in fiscal year 2016. This shows some main sources of income coming from property and local sales.
 
 # Sources
 
