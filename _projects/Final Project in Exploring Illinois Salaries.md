@@ -17,13 +17,13 @@ As Illinois ranked ninth among the states highest state tax burdens (combining p
 
 # Central Interactive Visualization
 
-<div id="newcharts"></div>
-
-<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-
 <vegachart schema-url="{{ gflo3.github.io }}/assets/json/newcharts.json" style="width: 100%"></vegachart>
+
+For this project, I created a dashboard with a bar graph and a scatterplot. The bar graph visualizes the year to date (YTD) gross amount paid to each agency to the State of Illinois government employees. The Y-axis shows the amount of money paid and the X-axis shows the different agencies within the state government. By default there are different colors used for each bar. When one bar is clicked, the others turn grey. This click leads to the interaction with the right side, second graph. 
+
+This scatterplot represents the YTD gross amount paid to people with different position titles (categorized by agencies).—— Additionally, for creating this dashboard, I referenced the code using vega lite for assignment #9. This was very helpful for creating a format for the dashboard. However, I did use Altair within a Jupyter notebook to code the dashboard. I also referenced ChatGPT (chat.openai.com) to generate some styling additions to the dashboard. This scatterplot shows the position titles from each agency on the Y-axis and it shows the sum of the YTD gross pay on the X-axis. At first, the Y-axis is cluttered, however, once a bar on the bar graph is clicked, the positions within that agency is revealed. This way, there is enough space for the positions within the agency to all be displayed. 
+
+If I had more time to update the entire dashboard, I think I would rework it with a potentially different dataset, or update the types of graphs I worked with. I do think that it was nice that the scatterplot showed the position titles upon clicking the agency bar. Although, I wish the graphs were roughly the same size so that they displayed within one webpage without horizontal scrolling.
 
 <div class="left">
 {% include elements/button.html link="https://data.illinois.gov/dataset/724state_employee_pay/resource/f823a40d-77f9-4b12-9d1c-5cd0c31905e9" text="The Data" %}
@@ -32,13 +32,6 @@ As Illinois ranked ninth among the states highest state tax burdens (combining p
 <div class="right">
 {% include elements/button.html link="https://github.com/gflo3/gflo3.github.io/blob/main/python_notebooks/florence-grant-final-part1.ipynb" text="The Analysis" %}
 </div>
-
-For this project, I created a dashboard with a bar graph and a scatterplot. The bar graph visualizes the year to date (YTD) gross amount paid to each agency to the State of Illinois government employees. The Y-axis shows the amount of money paid and the X-axis shows the different agencies within the state government. By default there are different colors used for each bar. When one bar is clicked, the others turn grey. This click leads to the interaction with the right side, second graph. 
-
-This scatterplot represents the YTD gross amount paid to people with different position titles (categorized by agencies).—— Additionally, for creating this dashboard, I referenced the code using vega lite for assignment #9. This was very helpful for creating a format for the dashboard. However, I did use Altair within a Jupyter notebook to code the dashboard. I also referenced ChatGPT (chat.openai.com) to generate some styling additions to the dashboard. This scatterplot shows the position titles from each agency on the Y-axis and it shows the sum of the YTD gross pay on the X-axis. At first, the Y-axis is cluttered, however, once a bar on the bar graph is clicked, the positions within that agency is revealed. This way, there is enough space for the positions within the agency to all be displayed. 
-
-If I had more time to update the entire dashboard, I think I would rework it with a potentially different dataset, or update the types of graphs I worked with. I do think that it was nice that the scatterplot showed the position titles upon clicking the agency bar. Although, I wish the graphs were roughly the same size so that they displayed within one webpage without horizontal scrolling.
-
 
 # Contextual Visualization #1
 
