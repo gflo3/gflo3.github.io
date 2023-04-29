@@ -38,7 +38,7 @@ If I had more time to update the entire dashboard, I think I would rework it wit
 
 ![50cents](/assets/pngs/50cents.png) 
 
-This visualization gives some insight into the state's spending from property taxes. The key takeaway as noted is that less than half of property tax icnome for the state was going to services. This means most was going to pensions, bonds, and interest, among other categories.
+This visualization gives some insight into the state's spending from property taxes. The key takeaway as noted is that less than half of property tax income for the state was going to services. This means most was going to pensions, bonds, and interest, among other categories.
 
 # Contextual Visualization #2
 
