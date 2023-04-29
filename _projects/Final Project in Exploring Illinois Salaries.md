@@ -36,12 +36,11 @@ If I had more time to update the entire dashboard, I think I would rework it wit
 
 # Contextual Visualization #1
 
-
-
-
+![50cents](/assets/pngs/50cents.png) 
 
 # Contextual Visualization #2
 
+![revenue-illinois](/assets/pngs/revenue-illinois.png) 
 
 # Sources
 
