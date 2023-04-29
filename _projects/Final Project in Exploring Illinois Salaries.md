@@ -4,9 +4,10 @@ tools: [Python, HTML, Altair]
 image: /assets/pngs/Main Visualization.png
 description: Exploring how the State of Illinois pays state employees across various agencies
 custom_js:
-  - pandas
-  - altair
-  - vega_datasets
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
 ---
 # Final Project in Exploring Illinois Salaries
 by Grant Florence
