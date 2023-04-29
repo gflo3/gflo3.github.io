@@ -19,8 +19,6 @@ As Illinois ranked ninth among the states highest state tax burdens (combining p
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/central_charts.json" style="width: 100%"></vegachart>
 
-assets/json/central_charts.json
-
 For this project, I created a dashboard with a bar graph and a scatterplot. The bar graph visualizes the year to date (YTD) gross amount paid to each agency to the State of Illinois government employees. The Y-axis shows the amount of money paid and the X-axis shows the different agencies within the state government. By default there are different colors used for each bar. When one bar is clicked, the others turn grey. This click leads to the interaction with the right side, second graph. 
 
 This scatterplot represents the YTD gross amount paid to people with different position titles (categorized by agencies).—— Additionally, for creating this dashboard, I referenced the code using vega lite for assignment #9. This was very helpful for creating a format for the dashboard. However, I did use Altair within a Jupyter notebook to code the dashboard. I also referenced ChatGPT (chat.openai.com) to generate some styling additions to the dashboard. This scatterplot shows the position titles from each agency on the Y-axis and it shows the sum of the YTD gross pay on the X-axis. At first, the Y-axis is cluttered, however, once a bar on the bar graph is clicked, the positions within that agency is revealed. This way, there is enough space for the positions within the agency to all be displayed. 
