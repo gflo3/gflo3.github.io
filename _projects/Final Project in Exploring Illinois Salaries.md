@@ -17,7 +17,7 @@ As Illinois ranked ninth among the states highest state tax burdens (combining p
 
 # Central Interactive Visualization
 
-<vegachart schema-url="{{ gflo3.github.io }}/assets/json/central_charts.json" style="width: 100%"></vegachart>
+<vegachart schema-url="https://gflo3.github.io/myproject/assets/json/central_charts.json" style="width: 100%"></vegachart>
 
 For this project, I created a dashboard with a bar graph and a scatterplot. The bar graph visualizes the year to date (YTD) gross amount paid to each agency to the State of Illinois government employees. The Y-axis shows the amount of money paid and the X-axis shows the different agencies within the state government. By default there are different colors used for each bar. When one bar is clicked, the others turn grey. This click leads to the interaction with the right side, second graph. 
 
