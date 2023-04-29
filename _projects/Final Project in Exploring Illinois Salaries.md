@@ -17,6 +17,12 @@ As Illinois ranked ninth among the states highest state tax burdens (combining p
 
 # Central Interactive Visualization
 
+<div id="newcharts"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
 <vegachart schema-url="{{ gflo3.github.io }}/assets/json/newcharts.json" style="width: 100%"></vegachart>
 
 <div class="left">
