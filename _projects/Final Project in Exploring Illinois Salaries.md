@@ -7,6 +7,11 @@ custom_js:
   - pandas
   - altair
   - vega_datasets
+
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
 ---
 # Final Project in Exploring Illinois Salaries
 by Grant Florence
@@ -44,6 +49,10 @@ If I had more time to update the entire dashboard, I think I would rework it wit
 
 # Sources
 
+An Examination of Counties in Illinois | The Civic Federation. https://www.civicfed.org/civic-federation/blog/examination-counties-illinois. Accessed 28 Apr. 2023.
+
 Archie, Ayana. “These Are the States with the Highest and Lowest Tax Burdens, a Report Says.” NPR, 30 Mar. 2023. NPR, https://www.npr.org/2023/03/30/1166970506/tax-burden-by-state-income-property-sales.
 
 chat.openai.com
+
+“Pensions Pushed Illinois Property Taxes from Average to among Highest in the U.S.” Illinois Policy, 30 July 2018, https://www.illinoispolicy.org/reports/pensions-make-illinois-property-taxes-among-nations-most-painful/.
