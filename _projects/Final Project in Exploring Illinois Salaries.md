@@ -7,11 +7,6 @@ custom_js:
   - pandas
   - altair
   - vega_datasets
-
-<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-
 ---
 # Final Project in Exploring Illinois Salaries
 by Grant Florence
