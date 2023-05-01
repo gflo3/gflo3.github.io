@@ -27,7 +27,7 @@ This scatterplot represents the YTD gross amount paid to people with different p
 If I had more time to update the entire dashboard, I think I would rework it with a potentially different dataset, or update the types of graphs I worked with. I do think that it was nice that the scatterplot showed the position titles upon clicking the agency bar. Although, I wish the graphs were roughly the same size so that they displayed within one webpage without horizontal scrolling.
 
 <div class="left">
-{% include elements/button.html link="https://data.illinois.gov/dataset/724state_employee_pay/resource/f823a40d-77f9-4b12-9d1c-5cd0c31905e9" text="The Data" %}
+{% include elements/button.html link="https://github.com/gflo3/gflo3.github.io/blob/main/_data/Illinois-Data.csv" text="The Data" %}
 </div>
 
 <div class="right">
